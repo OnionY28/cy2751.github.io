@@ -1,0 +1,27 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Ivy's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+This is an **awesome website** about data science and elmo?
+
+Sometimes I use [UNIQLO](https://www.uniqlo.com/us/en/women/outerwear-and-blazers) to buy clothes.
+
+Let me try to pull up another website I love. It is [Bobbi Brown](https://www.bobbibrowncosmetics.com/products/14358/best-sellers?gclid=1cbf32d82fe917c7b6e555c932791ad6&gclsrc=3p.ds&msclkid=1cbf32d82fe917c7b6e555c932791ad6&utm_source=bing&utm_medium=cpc&utm_campaign=brd%3Abb_fnl%3Acvr_st%3Abrd_ven%3Abing_audtyp%3Acrm_sc%3Atm-bobbi-brown-skc_mt%3Aexc_dst%3Abrnd_lng%3Aeng_cmpt%3Aao_&utm_term=Bobbi%20Brown&utm_content=prod%3Abb_cmt%3Asem_ct%3An%2Fa_ssc%3Anew%3A-bobbi-brown_gnd%3Aall-_) website.
+
+This is myself.
+
+![](IMG_3723.JPG)
+
+<img src = "IMG_3723.JPG" style = "width:75%">
+
+If you would like to learn more about this website, visit [this page](about.html)
+
+
